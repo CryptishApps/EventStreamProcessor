@@ -3,8 +3,9 @@ Andy Lower's submission for the Backend Engineer coding challenge.
 
 
 ## Running the Program
-
+Extract the contents of the .zip file 
 ```sh
+  cd EventStreamProcessor
   dotnet run [command] [value]
   ```
 
@@ -17,7 +18,7 @@ To add transactions from a local JSON file
 
 To add transactions directly from the terminal (requires a valid stringified JSON object or array)
   ```sh
-  dotnet run --read-inline '{"Type": "Burn", "TokenId": “0x..."}'
+  dotnet run --read-inline '{"Type": "Burn", "TokenId": â€œ0x..."}'
   ```
 
 To check the owner of an NFT

@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "EventStreamProcessor": {
+      "commandName": "Project"
+    }
+  }
+}

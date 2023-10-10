@@ -1,5 +1,5 @@
-## Coding Challenge - Illuvium
-Andy Lower's submission for the Backend Engineer coding challenge.
+## C# Exercise
+Dabbling with a console app
 
 
 ## Running the Program
